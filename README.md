@@ -10,12 +10,12 @@
 <h2>
   2. Odd or Even Numbers
 </h2>
-<p align="center"><img src="odd-even-numbers.png" width=80% alt="Flowchart for detemining odd or even numbers" /></p>
+<p align="center"><img src="odd-even-numbers.png" width=60% alt="Flowchart for detemining odd or even numbers" /></p>
 
 <h2>
   3. Upload Youtube Video
 </h2>
-<p align="center"><img src="upload-youtube-video.png" width=80% alt="Flowchart for Uploading a Youtube Video" /></p>
+<p align="center"><img src="upload-youtube-video.png" width=60% alt="Flowchart for Uploading a Youtube Video" /></p>
 
 <h2>
   4. Palindrome
